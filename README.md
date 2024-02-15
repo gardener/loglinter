@@ -1,6 +1,5 @@
 # <repo name>
-
-[![reuse compliant](https://reuse.software/badge/reuse-compliant.svg)](https://reuse.software/)
+[![REUSE status](https://api.reuse.software/badge/github.com/gardener/loglinter)](https://api.reuse.software/info/github.com/gardener/loglinter)
 
 ## How to use this repository template
 
